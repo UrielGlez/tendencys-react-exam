@@ -5,9 +5,9 @@
 
 .ldio-z7gywgtdwo7 div {
     position: absolute;
-    width: 120px;
-    height: 120px;
-    border: 20px solid #0a69aa;
+    width: 50px;
+    height: 50px;
+    border: 8px solid #40916c;
     border-top-color: transparent;
     border-radius: 50%;
 }

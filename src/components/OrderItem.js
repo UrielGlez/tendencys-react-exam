@@ -12,7 +12,7 @@ const OrderItem = ({ data, setSelectedOrder }) => {
     }
 
     return (
-        <div style={{ border: "thin solid gray", padding: "1rem" }}>
+        <div style={{ border: "thin solid gray", padding: "1rem"}}>
             <h4>Order #{number}</h4>
             <p>{billingAddress.firstName} {billingAddress.lastName}</p>
             {itemQuantity > 1 
